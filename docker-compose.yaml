@@ -1,6 +1,6 @@
 version: '3'
 services:
   nginx:
-    image: nginx
+    image: blackmetalcat66/docker-cicd 202406121421
     ports:
       - "8080:80"
